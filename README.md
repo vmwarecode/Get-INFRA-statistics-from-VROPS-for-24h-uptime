@@ -1,1 +1,0 @@
-# Get-INFRA-statistics-from-VROPS-for-24h-uptime
